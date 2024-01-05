@@ -1,1 +1,1 @@
-export const URL = 'https://etms-backend.vercel.app'
+export const URL = 'https://etms-project-backend.vercel.app'
